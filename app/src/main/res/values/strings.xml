@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BettaryState</string>
+    <string name="battery_percentage">Battery Percentage</string>
+    <string name="battery_condition">Battery Condition</string>
+</resources>
